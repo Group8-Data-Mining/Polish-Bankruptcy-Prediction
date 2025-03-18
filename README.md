@@ -1,5 +1,6 @@
 # Polish-Bankruptcy-Prediction
 Company Bankruptcy Prediction in Poland
+### Authors
 Kepha Barasa, Megan Berberich,  Johnathon Hoffman, Devon Midkiff
 
 # Problem
